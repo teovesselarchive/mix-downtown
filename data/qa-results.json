@@ -1,0 +1,116 @@
+{
+  "site": "mix-downtown",
+  "html_pages": 13,
+  "static_errors": [],
+  "responsive": [
+    {
+      "slug": "mix-downtown",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 320
+    },
+    {
+      "slug": "mix-downtown",
+      "height": 844,
+      "images": true,
+      "overflow": false,
+      "width": 390
+    },
+    {
+      "slug": "mix-downtown",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 768
+    },
+    {
+      "slug": "mix-downtown",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1024
+    },
+    {
+      "slug": "mix-downtown",
+      "height": 1000,
+      "images": true,
+      "overflow": false,
+      "width": 1440
+    }
+  ],
+  "interactions": {
+    "slug": "mix-downtown",
+    "menuOpened": true,
+    "menuClosed": true,
+    "initial": "1 of 6",
+    "next": "2 of 6",
+    "gallery": {
+      "closed": true,
+      "restored": true
+    },
+    "faqOpened": true
+  },
+  "targeted_route_rechecks": [
+    {
+      "slug": "mix-downtown",
+      "route": "ada-accessibility",
+      "heading": "Accessibility",
+      "overflow": false,
+      "scrollWidth": 320,
+      "width": 320
+    }
+  ],
+  "external_http_checks": [
+    {
+      "url": "https://www.machospitalitygroup.com/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/mix-downtown/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/mix-downtown/"
+    },
+    {
+      "url": "https://www.machospitalitygroup.com/planning-faq/",
+      "status": 200,
+      "final": "https://www.machospitalitygroup.com/planning-faq/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/ada-accessibility/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/ada-accessibility/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/book-vip/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/book-vip/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/calendar/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/calendar/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/menu/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/menu/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/privacy-policy/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/privacy-policy/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/terms-of-use/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/terms-of-use/"
+    },
+    {
+      "url": "https://www.mixdowntown.net/vip-experience/",
+      "status": 200,
+      "final": "https://www.mixdowntown.net/vip-experience/"
+    }
+  ]
+}

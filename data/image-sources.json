@@ -1,0 +1,149 @@
+[
+  {
+    "original": "assets/originals/MIX-06.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/MIX-06.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/mix-06-600.webp",
+      "assets/mix-06-1100.webp",
+      "assets/mix-06-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/MIX-09.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/MIX-09.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/mix-09-600.webp",
+      "assets/mix-09-1100.webp",
+      "assets/mix-09-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/MIX-19.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/MIX-19.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/mix-19-600.webp",
+      "assets/mix-19-1100.webp",
+      "assets/mix-19-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/MIX-40.jpg",
+    "source_url": "https://www.machospitalitygroup.com/wp-content/uploads/2024/07/MIX-40.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1920,
+      1280
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/mix-40-600.webp",
+      "assets/mix-40-1100.webp",
+      "assets/mix-40-1800.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/confetti-celebration.jpg",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2024/08/Rectangle-6.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      845,
+      1200
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/confetti-celebration-600.webp",
+      "assets/confetti-celebration-845.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/logo.png",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2024/07/mixlogoWHITE.png",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1500,
+      2018
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/logo.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/nightlife-01.jpg",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2024/08/MJB_5368-X3.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1600,
+      1067
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/nightlife-01-600.webp",
+      "assets/nightlife-01-1100.webp",
+      "assets/nightlife-01-1600.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/rooftop-sign.jpg",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2024/09/mix-outdoor-sign.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1600,
+      1073
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/rooftop-sign-600.webp",
+      "assets/rooftop-sign-1100.webp",
+      "assets/rooftop-sign-1600.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/vip-celebration.jpg",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2024/12/MJB_3957-X3-e1733179461230.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1552,
+      1045
+    ],
+    "provenance": "Official venue website; unchanged original preserved. Responsive derivatives are resized or cropped only; no generative enhancement.",
+    "derivatives": [
+      "assets/vip-celebration-600.webp",
+      "assets/vip-celebration-1100.webp",
+      "assets/vip-celebration-1552.webp"
+    ]
+  },
+  {
+    "original": "assets/originals/bottle-service-host.jpg",
+    "source_url": "https://www.mixdowntown.net/wp-content/uploads/2025/01/Photo-Oct-14-2023-5-23-49-PM-scaled.jpg",
+    "source_page": "https://www.mixdowntown.net/",
+    "original_dimensions": [
+      1816,
+      2560
+    ],
+    "provenance": "Official venue photograph. Original preserved. Responsive derivatives resized only; no generated enhancement.",
+    "derivatives": [
+      "assets/pitch-bottle-service-host-600.webp",
+      "assets/pitch-bottle-service-host-1100.webp",
+      "assets/pitch-bottle-service-host-1800.webp"
+    ]
+  }
+]

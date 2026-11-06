@@ -1,0 +1,109 @@
+{
+  "name": "MIX Downtown",
+  "website": "https://www.mixdowntown.net/",
+  "checked": "2026-11-05",
+  "description": "Rooftop nightclub and lounge in Downtown Sacramento, with DJs, cocktails, VIP bottle service and private events.",
+  "address": "1525 L Street, Sacramento, CA 95814",
+  "phone": "916-802-3036",
+  "email": "info@mixdowntown.net",
+  "hours": [
+    {
+      "days": "Friday–Sunday",
+      "hours": "9:30pm–1:30am"
+    }
+  ],
+  "links": {
+    "reservations": "https://www.mixdowntown.net/book-vip/",
+    "vip": "https://www.mixdowntown.net/vip-experience/",
+    "menu": "https://www.mixdowntown.net/menu/",
+    "calendar": "https://www.mixdowntown.net/calendar/",
+    "guest_list": "https://www.sevenrooms.com/events/ahNzfnNldmVucm9vbXMtc2VjdXJlchwLEg9uaWdodGxvb3BfVmVudWUYgIDgkuqI3woM",
+    "events": "https://www.machospitalitygroup.com/mix-downtown/",
+    "event_faq": "https://www.machospitalitygroup.com/planning-faq/",
+    "sample_event_menu": "https://www.machospitalitygroup.com/mix-sample-menu/",
+    "brochure": "https://www.machospitalitygroup.com/wp-content/uploads/2025/09/MAC_PDR_Brochure_1.2.pdf",
+    "maps": "https://www.google.com/maps/place/Mix+Downtown/@38.5761503,-121.4864587,15z/data=!4m2!3m1!1s0x0:0x82397041557288dc",
+    "instagram": "https://www.instagram.com/mixdowntown/",
+    "facebook": "https://www.facebook.com/Mixdowntown"
+  },
+  "menu_categories": [
+    "Rosé",
+    "Bubbles",
+    "Bubbles Magnum",
+    "Vodka",
+    "Whiskey / Scotch",
+    "Cognac",
+    "Gin",
+    "Rum",
+    "Tequila",
+    "Buckets"
+  ],
+  "event_contact": {
+    "name": "Diane Lally",
+    "phone": "916-442-8855",
+    "email": "events@machospitalitygroup.com"
+  },
+  "private_event_capacity": {
+    "standing": 400,
+    "seated": 100
+  },
+  "private_event_features": [
+    "Open-air rooftop",
+    "Fire pits",
+    "Two full bars",
+    "Full audio equipment",
+    "Four large TVs",
+    "Lighting and sound",
+    "Custom menus"
+  ],
+  "existing_routes": [
+    "/",
+    "/calendar/",
+    "/vip-experience/",
+    "/book-vip/",
+    "/menu/",
+    "/terms-of-use/",
+    "/privacy-policy/",
+    "/ada-accessibility/"
+  ],
+  "preserve": [
+    "VIP request destination",
+    "SevenRooms guest list",
+    "Current event calendar",
+    "Bottle menu",
+    "Private event inquiry destination",
+    "Social and legal links",
+    "Opening hours"
+  ],
+  "maps_observations": [
+    "Google Maps photo gallery visually inspected",
+    "Rooftop photo dated June 2025 shows mature leafy planters, string bulbs, dark timber benches, patterned cushions, pale floor tiles and an open indoor-outdoor bar",
+    "Warm backlit bottles, reclaimed wood and dark ceilings in interior thumbnail",
+    "Nightlife imagery is social and glamorous, with champagne, people and warm lighting"
+  ],
+  "image_recommendations": {
+    "hero": "rooftop-sign.jpg (1600px wide real orange neon MIX sign) or nightlife-01.jpg (wide crowd cheers)",
+    "support": [
+      "confetti-celebration.jpg",
+      "vip-celebration.jpg",
+      "nightlife-02.jpg",
+      "nightlife-03.jpg",
+      "nightlife-04.jpg"
+    ],
+    "portrait": "bottle-service-host.jpg",
+    "logo": "logo.png",
+    "rooftop": "MIX-40.jpg (1920×1280; real leafy rooftop at dusk, string bulbs, fire pit and wood-front bar; strongest atmosphere image)",
+    "interior": [
+      "MIX-06.jpg (1920×1280; bar close-up)",
+      "MIX-19.jpg (1920×1280; lounge/event setup)",
+      "MIX-09.jpg (1920×1280; indoor–outdoor flow)"
+    ]
+  },
+  "uncertainties": [
+    "Google Maps lists phone 916-442-8899; current official site footer lists 916-802-3036. Use official site footer.",
+    "VIP FAQ lists additional phone 916-665-0558 and financial terms; link out to existing form rather than duplicating possibly changing terms.",
+    "Official homepage hero video filename identifies a stock nightclub clip; do not present it as actual MIX footage.",
+    "Avoid hardcoding temporary event dates unless expiring automatically.",
+    "No Google Maps photos downloaded or reused."
+  ]
+}

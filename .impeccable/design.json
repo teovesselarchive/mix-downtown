@@ -1,0 +1,481 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-06T15:58:57.774310Z",
+  "title": "Design System: MIX Downtown",
+  "extensions": {
+    "colorMeta": {
+      "paper": {
+        "role": "neutral",
+        "displayName": "Almost black",
+        "tonalRamp": [
+          "oklch(15.000% 0.00250 145.483)",
+          "oklch(26.429% 0.00250 145.483)",
+          "oklch(37.857% 0.00250 145.483)",
+          "oklch(49.286% 0.00250 145.483)",
+          "oklch(60.714% 0.00250 145.483)",
+          "oklch(72.143% 0.00250 145.483)",
+          "oklch(83.571% 0.00250 145.483)",
+          "oklch(95.000% 0.00250 145.483)"
+        ]
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Warm white",
+        "tonalRamp": [
+          "oklch(15.000% 0.01067 100.825)",
+          "oklch(26.429% 0.01067 100.825)",
+          "oklch(37.857% 0.01067 100.825)",
+          "oklch(49.286% 0.01067 100.825)",
+          "oklch(60.714% 0.01067 100.825)",
+          "oklch(72.143% 0.01067 100.825)",
+          "oklch(83.571% 0.01067 100.825)",
+          "oklch(95.000% 0.01067 100.825)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Ash gray",
+        "tonalRamp": [
+          "oklch(15.000% 0.01025 125.716)",
+          "oklch(26.429% 0.01025 125.716)",
+          "oklch(37.857% 0.01025 125.716)",
+          "oklch(49.286% 0.01025 125.716)",
+          "oklch(60.714% 0.01025 125.716)",
+          "oklch(72.143% 0.01025 125.716)",
+          "oklch(83.571% 0.01025 125.716)",
+          "oklch(95.000% 0.01025 125.716)"
+        ]
+      },
+      "accent": {
+        "role": "primary",
+        "displayName": "Ember orange",
+        "tonalRamp": [
+          "oklch(15.000% 0.14159 44.273)",
+          "oklch(26.429% 0.14159 44.273)",
+          "oklch(37.857% 0.14159 44.273)",
+          "oklch(49.286% 0.14159 44.273)",
+          "oklch(60.714% 0.14159 44.273)",
+          "oklch(72.143% 0.14159 44.273)",
+          "oklch(83.571% 0.14159 44.273)",
+          "oklch(95.000% 0.14159 44.273)"
+        ]
+      },
+      "on-accent": {
+        "role": "primary",
+        "displayName": "Dark ember ink",
+        "tonalRamp": [
+          "oklch(15.000% 0.00420 84.590)",
+          "oklch(26.429% 0.00420 84.590)",
+          "oklch(37.857% 0.00420 84.590)",
+          "oklch(49.286% 0.00420 84.590)",
+          "oklch(60.714% 0.00420 84.590)",
+          "oklch(72.143% 0.00420 84.590)",
+          "oklch(83.571% 0.00420 84.590)",
+          "oklch(95.000% 0.00420 84.590)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Translucent warm white",
+        "tonalRamp": [
+          "oklch(15.000% 0.01067 100.825 / 0.18039)",
+          "oklch(26.429% 0.01067 100.825 / 0.18039)",
+          "oklch(37.857% 0.01067 100.825 / 0.18039)",
+          "oklch(49.286% 0.01067 100.825 / 0.18039)",
+          "oklch(60.714% 0.01067 100.825 / 0.18039)",
+          "oklch(72.143% 0.01067 100.825 / 0.18039)",
+          "oklch(83.571% 0.01067 100.825 / 0.18039)",
+          "oklch(95.000% 0.01067 100.825 / 0.18039)"
+        ]
+      },
+      "panel": {
+        "role": "neutral",
+        "displayName": "Dark olive panel",
+        "tonalRamp": [
+          "oklch(15.000% 0.00749 118.349)",
+          "oklch(26.429% 0.00749 118.349)",
+          "oklch(37.857% 0.00749 118.349)",
+          "oklch(49.286% 0.00749 118.349)",
+          "oklch(60.714% 0.00749 118.349)",
+          "oklch(72.143% 0.00749 118.349)",
+          "oklch(83.571% 0.00749 118.349)",
+          "oklch(95.000% 0.00749 118.349)"
+        ]
+      },
+      "home-paper": {
+        "role": "neutral",
+        "displayName": "Homepage Night black",
+        "tonalRamp": [
+          "oklch(15.000% 0.00257 145.468)",
+          "oklch(26.429% 0.00257 145.468)",
+          "oklch(37.857% 0.00257 145.468)",
+          "oklch(49.286% 0.00257 145.468)",
+          "oklch(60.714% 0.00257 145.468)",
+          "oklch(72.143% 0.00257 145.468)",
+          "oklch(83.571% 0.00257 145.468)",
+          "oklch(95.000% 0.00257 145.468)"
+        ]
+      },
+      "home-ink": {
+        "role": "neutral",
+        "displayName": "Homepage Warm white",
+        "tonalRamp": [
+          "oklch(15.000% 0.01237 91.519)",
+          "oklch(26.429% 0.01237 91.519)",
+          "oklch(37.857% 0.01237 91.519)",
+          "oklch(49.286% 0.01237 91.519)",
+          "oklch(60.714% 0.01237 91.519)",
+          "oklch(72.143% 0.01237 91.519)",
+          "oklch(83.571% 0.01237 91.519)",
+          "oklch(95.000% 0.01237 91.519)"
+        ]
+      },
+      "home-muted": {
+        "role": "neutral",
+        "displayName": "Homepage Ash gray",
+        "tonalRamp": [
+          "oklch(15.000% 0.01385 111.335)",
+          "oklch(26.429% 0.01385 111.335)",
+          "oklch(37.857% 0.01385 111.335)",
+          "oklch(49.286% 0.01385 111.335)",
+          "oklch(60.714% 0.01385 111.335)",
+          "oklch(72.143% 0.01385 111.335)",
+          "oklch(83.571% 0.01385 111.335)",
+          "oklch(95.000% 0.01385 111.335)"
+        ]
+      },
+      "home-accent": {
+        "role": "primary",
+        "displayName": "Homepage Bright ember",
+        "tonalRamp": [
+          "oklch(15.000% 0.15440 44.540)",
+          "oklch(26.429% 0.15440 44.540)",
+          "oklch(37.857% 0.15440 44.540)",
+          "oklch(49.286% 0.15440 44.540)",
+          "oklch(60.714% 0.15440 44.540)",
+          "oklch(72.143% 0.15440 44.540)",
+          "oklch(83.571% 0.15440 44.540)",
+          "oklch(95.000% 0.15440 44.540)"
+        ]
+      },
+      "home-on-accent": {
+        "role": "primary",
+        "displayName": "Homepage Dark ember ink",
+        "tonalRamp": [
+          "oklch(15.000% 0.00512 67.517)",
+          "oklch(26.429% 0.00512 67.517)",
+          "oklch(37.857% 0.00512 67.517)",
+          "oklch(49.286% 0.00512 67.517)",
+          "oklch(60.714% 0.00512 67.517)",
+          "oklch(72.143% 0.00512 67.517)",
+          "oklch(83.571% 0.00512 67.517)",
+          "oklch(95.000% 0.00512 67.517)"
+        ]
+      },
+      "home-line": {
+        "role": "neutral",
+        "displayName": "Homepage Inherited translucent warm white",
+        "tonalRamp": [
+          "oklch(15.000% 0.01067 100.825 / 0.18039)",
+          "oklch(26.429% 0.01067 100.825 / 0.18039)",
+          "oklch(37.857% 0.01067 100.825 / 0.18039)",
+          "oklch(49.286% 0.01067 100.825 / 0.18039)",
+          "oklch(60.714% 0.01067 100.825 / 0.18039)",
+          "oklch(72.143% 0.01067 100.825 / 0.18039)",
+          "oklch(83.571% 0.01067 100.825 / 0.18039)",
+          "oklch(95.000% 0.01067 100.825 / 0.18039)"
+        ]
+      },
+      "home-panel": {
+        "role": "neutral",
+        "displayName": "Homepage Night panel",
+        "tonalRamp": [
+          "oklch(15.000% 0.00569 121.849)",
+          "oklch(26.429% 0.00569 121.849)",
+          "oklch(37.857% 0.00569 121.849)",
+          "oklch(49.286% 0.00569 121.849)",
+          "oklch(60.714% 0.00569 121.849)",
+          "oklch(72.143% 0.00569 121.849)",
+          "oklch(83.571% 0.00569 121.849)",
+          "oklch(95.000% 0.00569 121.849)"
+        ]
+      },
+      "home-photo-line": {
+        "role": "neutral",
+        "displayName": "Home Photo Line",
+        "tonalRamp": [
+          "oklch(15.000% 0.01237 91.519 / 0.4)",
+          "oklch(26.429% 0.01237 91.519 / 0.4)",
+          "oklch(37.857% 0.01237 91.519 / 0.4)",
+          "oklch(49.286% 0.01237 91.519 / 0.4)",
+          "oklch(60.714% 0.01237 91.519 / 0.4)",
+          "oklch(72.143% 0.01237 91.519 / 0.4)",
+          "oklch(83.571% 0.01237 91.519 / 0.4)",
+          "oklch(95.000% 0.01237 91.519 / 0.4)"
+        ]
+      },
+      "home-tape-line": {
+        "role": "neutral",
+        "displayName": "Home Tape Line",
+        "tonalRamp": [
+          "oklch(15.000% 0.00257 145.468 / 0.33333)",
+          "oklch(26.429% 0.00257 145.468 / 0.33333)",
+          "oklch(37.857% 0.00257 145.468 / 0.33333)",
+          "oklch(49.286% 0.00257 145.468 / 0.33333)",
+          "oklch(60.714% 0.00257 145.468 / 0.33333)",
+          "oklch(72.143% 0.00257 145.468 / 0.33333)",
+          "oklch(83.571% 0.00257 145.468 / 0.33333)",
+          "oklch(95.000% 0.00257 145.468 / 0.33333)"
+        ]
+      },
+      "home-weekly-note": {
+        "role": "neutral",
+        "displayName": "Home Weekly Note",
+        "tonalRamp": [
+          "oklch(15.000% 0.03147 50.300)",
+          "oklch(26.429% 0.03147 50.300)",
+          "oklch(37.857% 0.03147 50.300)",
+          "oklch(49.286% 0.03147 50.300)",
+          "oklch(60.714% 0.03147 50.300)",
+          "oklch(72.143% 0.03147 50.300)",
+          "oklch(83.571% 0.03147 50.300)",
+          "oklch(95.000% 0.03147 50.300)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Current homepage role."
+      },
+      "display-mobile": {
+        "displayName": "Display Mobile",
+        "purpose": "Current homepage role."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "navigation": {
+        "displayName": "Navigation",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "home-headline": {
+        "displayName": "Home Headline",
+        "purpose": "Current homepage role."
+      },
+      "home-story": {
+        "displayName": "Home Story",
+        "purpose": "Current homepage role."
+      },
+      "home-menu-title": {
+        "displayName": "Home Menu Title",
+        "purpose": "Current homepage role."
+      },
+      "inner-page-title": {
+        "displayName": "Inner Page Title",
+        "purpose": "Preserved inner-page or shared role; scope is described in DESIGN.md."
+      },
+      "home-eyebrow": {
+        "displayName": "Home Eyebrow",
+        "purpose": "Current homepage role."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "button-hover",
+        "value": "background .2s,transform .2s",
+        "purpose": "Primary hover brightens and moves up 2px; active returns to zero."
+      },
+      {
+        "name": "home-room-hover",
+        "value": "transform .5s",
+        "purpose": "Room photographs scale to 1.04."
+      },
+      {
+        "name": "home-menu-hover",
+        "value": "padding .25s,color .25s",
+        "purpose": "Ruled menu-entry hover; MIX’s scoped bottle padding prevents lateral movement."
+      },
+      {
+        "name": "inner-gallery-hover",
+        "value": "transform .4s",
+        "purpose": "Inner-gallery photographs scale to 1.035."
+      },
+      {
+        "name": "smooth-scroll",
+        "value": "smooth",
+        "purpose": "Anchor scrolling, disabled for reduced motion."
+      },
+      {
+        "name": "section-entrance",
+        "value": "none",
+        "purpose": "Generic section-rise and entrance effects were removed."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation:none!important;transition:none!important;scroll-behavior:auto!important",
+        "purpose": "Retains immediate interaction states; parallax resets and MIX tape stops."
+      },
+      {
+        "name": "home-tape",
+        "value": "tape-travel 35s linear infinite",
+        "purpose": "Pausable duplicated text strip; reduced motion removes animation and hides its pause control."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "narrow-max",
+        "value": "360px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "650px"
+      },
+      {
+        "name": "navigation-max",
+        "value": "900px"
+      },
+      {
+        "name": "desktop-navigation-min",
+        "value": "901px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1100px"
+      },
+      {
+        "name": "wide-min",
+        "value": "1800px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Homepage primary action",
+      "kind": "button",
+      "refersTo": "home-button-primary",
+      "description": "Base homepage action; compact hero overrides remain in pitch.css.",
+      "html": "<div class=\"ds-home-scope\"><button class=\"ds-home-primary\" type=\"button\">Book VIP</button></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-home-primary{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:15px 25px;min-height:50px;background:var(--accent, #fb8954);color:var(--on-accent, #161412);border:1px solid var(--accent, #fb8954);border-radius:2px;font-family:var(--body, DM Sans, sans-serif);font-size:14px;font-weight:600;line-height:1.2;text-align:center;text-decoration:none;white-space:normal;cursor:pointer;transition:background .2s,transform .2s}.ds-home-primary:hover{filter:brightness(1.08);transform:translateY(-2px)}.ds-home-primary:active{transform:translateY(0)}.ds-home-primary:focus-visible{outline:3px solid var(--ink, #f4f1e8);outline-offset:5px}@media(max-width:650px){.ds-home-primary{font-size:13px;padding:14px 18px;min-height:48px}}@media(max-width:360px){.ds-home-primary{font-size:12px;padding:13px 15px}}@media(prefers-reduced-motion:reduce){.ds-home-primary{transition:none}}"
+    },
+    {
+      "name": "Homepage secondary action",
+      "kind": "button",
+      "refersTo": "home-button-secondary",
+      "description": "Opening secondary action; photograph-specific foreground and border are retained.",
+      "html": "<div class=\"ds-home-scope\"><button class=\"ds-home-secondary\" type=\"button\">Guest list</button></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-home-secondary{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:15px 25px;min-height:50px;background:transparent;color:var(--ink, #f4f1e8);border:1px solid #f4f1e866;border-radius:2px;font-family:var(--body, DM Sans, sans-serif);font-size:14px;font-weight:600;line-height:1.2;text-align:center;text-decoration:none;white-space:normal;cursor:pointer;transition:background .2s,transform .2s}.ds-home-secondary:hover{filter:brightness(1.08);transform:translateY(-2px)}.ds-home-secondary:active{transform:translateY(0)}.ds-home-secondary:focus-visible{outline:3px solid var(--ink, #f4f1e8);outline-offset:5px}@media(max-width:650px){.ds-home-secondary{font-size:13px;padding:14px 18px;min-height:48px}}@media(max-width:360px){.ds-home-secondary{font-size:12px;padding:13px 15px}}@media(prefers-reduced-motion:reduce){.ds-home-secondary{transition:none}}.ds-home-secondary:hover{filter:none;border-color:var(--ink, #f4f1e8)}"
+    },
+    {
+      "name": "Inner pages: Primary button",
+      "kind": "button",
+      "refersTo": "inner-button-primary",
+      "description": "Existing inner-page text-only primary action; the application supplies its destination.",
+      "html": "<div class=\"ds-inner-scope\"><button class=\"ds-button-primary\" type=\"button\">Plan your night</button></div>",
+      "css": ".ds-inner-scope{--paper:#161716;--ink:#f1f0e8;--muted:#bbbeb7;--accent:#ef8758;--on-accent:#181715;--line:#f1f0e82e;--panel:#22231f;}.ds-button-primary{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:15px 25px;min-height:50px;background:var(--accent, #ef8758);color:var(--on-accent, #181715);border:1px solid var(--accent, #ef8758);border-radius:2px;font-family:var(--body, 'DM Sans',sans-serif);font-size:14px;font-weight:600;line-height:1.2;text-decoration:none;white-space:nowrap;cursor:pointer;transition:background .2s,transform .2s}.ds-button-primary:hover{filter:brightness(1.08);transform:translateY(-2px)}.ds-button-primary:active{transform:translateY(0)}.ds-button-primary:focus-visible{outline:3px solid var(--ink, #f1f0e8);outline-offset:5px}@media(max-width:650px){.ds-button-primary{padding:15px 21px;min-height:49px}}@media(prefers-reduced-motion:reduce){.ds-button-primary{transition:none}}"
+    },
+    {
+      "name": "Inner pages: Secondary button",
+      "kind": "button",
+      "refersTo": "inner-button-secondary",
+      "description": "Existing inner-page transparent supporting action with a quiet border.",
+      "html": "<div class=\"ds-inner-scope\"><button class=\"ds-button-secondary\" type=\"button\">Book VIP</button></div>",
+      "css": ".ds-inner-scope{--paper:#161716;--ink:#f1f0e8;--muted:#bbbeb7;--accent:#ef8758;--on-accent:#181715;--line:#f1f0e82e;--panel:#22231f;}.ds-button-secondary{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:15px 25px;min-height:50px;background:transparent;color:var(--ink, #f1f0e8);border:1px solid var(--line, #f1f0e82e);border-radius:2px;font-family:var(--body, 'DM Sans',sans-serif);font-size:14px;font-weight:600;line-height:1.2;text-decoration:none;white-space:nowrap;cursor:pointer;transition:background .2s,transform .2s}.ds-button-secondary:hover{filter:brightness(1.08);transform:translateY(-2px)}.ds-button-secondary:active{transform:translateY(0)}.ds-button-secondary:focus-visible{outline:3px solid var(--ink, #f1f0e8);outline-offset:5px}@media(max-width:650px){.ds-button-secondary{padding:15px 21px;min-height:49px}}@media(prefers-reduced-motion:reduce){.ds-button-secondary{transition:none}}.ds-button-secondary:hover{border-color:var(--ink, #f1f0e8);filter:none}"
+    },
+    {
+      "name": "Inner pages: Gallery control",
+      "kind": "button",
+      "refersTo": "inner-gallery-control",
+      "description": "Existing inner-page text control inside the native image dialog.",
+      "html": "<div class=\"ds-inner-scope\"><button class=\"ds-gallery-control\" type=\"button\">Next</button></div>",
+      "css": ".ds-inner-scope{--paper:#161716;--ink:#f1f0e8;--muted:#bbbeb7;--accent:#ef8758;--on-accent:#181715;--line:#f1f0e82e;--panel:#22231f;}.ds-gallery-control{border:1px solid var(--line, #f1f0e82e);background:transparent;color:var(--ink, #f1f0e8);padding:12px 17px;min-height:44px;font-family:var(--body, 'DM Sans',sans-serif);font-size:16px;cursor:pointer}.ds-gallery-control:focus-visible{outline:3px solid var(--accent, #ef8758);outline-offset:5px;}@media(max-width:650px){.ds-gallery-control{font-size:13px;padding:10px 13px}}@media(max-width:360px){.ds-gallery-control{padding:10px}}"
+    },
+    {
+      "name": "Homepage navigation",
+      "kind": "nav",
+      "refersTo": "home-navigation",
+      "description": "Navigation links on their actual header surface; the isolated sample shows the open mobile state.",
+      "html": "<div class=\"ds-home-scope\"><nav class=\"ds-home-nav\" aria-label=\"Main navigation\"><a class=\"ds-home-nav-link\" href=\"menu/\">Bottle menu</a><a class=\"ds-home-nav-link\" href=\"#the-space\">The space</a><a class=\"ds-home-nav-link\" href=\"private-events/\">Private events</a><a class=\"ds-home-nav-link\" href=\"#visit\">Visit</a></nav></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-home-nav{display:flex;align-items:center;gap:28px;background:var(--paper, #111211);color:var(--ink, #f4f1e8);font-family:var(--body, DM Sans, sans-serif)}.ds-home-nav-link{color:inherit;font-size:13px;text-decoration:none;padding:15px 0;white-space:nowrap;text-underline-offset:5px;text-decoration-thickness:1px}.ds-home-nav-link:hover,.ds-home-nav-link[aria-current]{text-decoration:underline}.ds-home-nav-link:focus-visible{outline:3px solid var(--accent, #fb8954);outline-offset:5px}@media(max-width:1100px){.ds-home-nav{gap:18px}}@media(max-width:900px){.ds-home-nav{flex-direction:column;align-items:stretch;gap:3px;padding:24px 22px 32px}.ds-home-nav-link{font-size:18px;padding:14px 0}}"
+    },
+    {
+      "name": "Homepage menu copy",
+      "kind": "custom",
+      "refersTo": "home-menu-copy",
+      "description": "One of six current selections in the final unnumbered, single-column menu list.",
+      "html": "<div class=\"ds-home-scope\"><a class=\"ds-home-menu\" href=\"menu/\"><h3 class=\"ds-home-menu-title\">Clase Azul Reposado</h3><p class=\"ds-home-menu-copy\">Tequila bottle selection.</p></a></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-home-menu{display:grid;grid-template-columns:1fr;gap:15px;text-decoration:none;border-top:1px solid var(--line, #f1f0e82e);padding:29px 0;color:var(--ink, #f4f1e8);transition:padding .25s,color .25s}.ds-home-menu:hover{}.ds-home-menu:focus-visible{outline:3px solid var(--accent, #fb8954);outline-offset:5px}.ds-home-menu-title{font-family:var(--display, Space Grotesk, sans-serif);font-size:clamp(29px,3.7vw,55px);font-weight:400;line-height:1.1;letter-spacing:-.04em;margin:0 0 10px;text-wrap:balance;}.ds-home-menu-copy{font:14px/1.6 var(--body, DM Sans, sans-serif);max-width:44ch;margin:0;color:var(--muted, #bfc0b6)}@media(max-width:650px){.ds-home-menu{padding:25px 0;gap:10px}.ds-home-menu-title{font-size:27px;line-height:1.12}.ds-home-menu-copy{font-size:13px}}@media(prefers-reduced-motion:reduce){.ds-home-menu{transition:none}}"
+    },
+    {
+      "name": "Click-to-load map panel",
+      "kind": "card",
+      "refersTo": "home-map-panel",
+      "description": "Pre-load visual state. pitch.js creates and focuses the map only after Show map is activated.",
+      "html": "<div class=\"ds-home-scope\"><div class=\"ds-map-panel\"><p class=\"ds-map-title\">1525 L Street, Sacramento, CA 95814</p><button class=\"ds-map-button\" type=\"button\">Show map</button></div></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-map-panel{min-height:300px;border:1px solid var(--line, #f1f0e82e);background:var(--panel, #232421);color:var(--ink, #f4f1e8);display:flex;flex-direction:column;align-items:flex-start;justify-content:center;padding:35px}.ds-map-title{font:32px/1.15 var(--display, Space Grotesk, sans-serif);max-width:15ch;margin:0 0 24px}.ds-map-button{display:inline-flex;align-items:center;justify-content:center;gap:10px;padding:15px 25px;min-height:50px;background:transparent;color:var(--ink, #f4f1e8);border:1px solid var(--line, #f1f0e82e);border-radius:2px;font-family:var(--body, DM Sans, sans-serif);font-size:14px;font-weight:600;line-height:1.2;text-align:center;text-decoration:none;white-space:normal;cursor:pointer;transition:background .2s,transform .2s}.ds-map-button:hover{filter:brightness(1.08);transform:translateY(-2px)}.ds-map-button:active{transform:translateY(0)}.ds-map-button:focus-visible{outline:3px solid var(--ink, #f4f1e8);outline-offset:5px}@media(max-width:650px){.ds-map-button{font-size:13px;padding:14px 18px;min-height:48px}}@media(max-width:360px){.ds-map-button{font-size:12px;padding:13px 15px}}@media(prefers-reduced-motion:reduce){.ds-map-button{transition:none}}.ds-map-button:hover{filter:none;border-color:var(--ink, #f4f1e8)}@media(max-width:650px){.ds-map-panel{min-height:290px;padding:25px}.ds-map-title{font-size:30px}}@media(max-width:360px){.ds-map-panel{padding:20px}}"
+    },
+    {
+      "name": "Weekly programming item",
+      "kind": "custom",
+      "refersTo": "home-weekly-item",
+      "description": "A schedule and its qualification stay together on the weekly strip.",
+      "html": "<div class=\"ds-home-scope\"><div class=\"ds-weekly-item\"><h3 class=\"ds-weekly-title\">Doors open</h3><p class=\"ds-weekly-copy\">Friday–Sunday · 9:30 PM–1:30 AM</p><small class=\"ds-weekly-note\">21+ with valid photo ID.</small></div></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-weekly-item{background:var(--accent, #fb8954);color:var(--on-accent, #161412);font-family:var(--body, DM Sans, sans-serif)}.ds-weekly-title{font:600 16px/1.3 var(--body, DM Sans, sans-serif);margin:0 0 10px;}.ds-weekly-copy{font-size:14px;line-height:1.65;margin:0}.ds-weekly-note{display:block;font-size:12px;line-height:1.6;margin-top:8px;color:#423026}@media(max-width:650px){.ds-weekly-item{border-top:1px solid var(--line, #f1f0e82e);padding-top:22px}}"
+    },
+    {
+      "name": "Nightlife text strip",
+      "kind": "custom",
+      "refersTo": "home-tape",
+      "description": "Duplicated text supports the seamless strip; pitch.js controls the Pause/Resume button in the site.",
+      "html": "<div class=\"ds-home-scope\"><div class=\"ds-tape\" aria-label=\"L Street, rooftop, dance floor, 9:30 PM\"><div class=\"ds-tape-track\" aria-hidden=\"true\"><span class=\"ds-tape-text\">L STREET / ROOFTOP / DANCE FLOOR / 9:30 PM / </span><span class=\"ds-tape-text\">L STREET / ROOFTOP / DANCE FLOOR / 9:30 PM / </span></div><button class=\"ds-tape-pause\" type=\"button\" aria-pressed=\"false\">Pause text</button></div></div>",
+      "css": ".ds-home-scope{--paper:#111211;--ink:#f4f1e8;--muted:#bfc0b6;--accent:#fb8954;--on-accent:#161412;--line:#f1f0e82e;--panel:#232421;}.ds-tape{position:relative;overflow:hidden;border-top:1px solid #11121155;border-bottom:1px solid #11121155;padding:20px 0;background:var(--accent, #fb8954);color:var(--on-accent, #161412)}.ds-tape-track{display:flex;width:max-content;gap:40px;animation:ds-tape-travel 35s linear infinite}.ds-tape-text{white-space:nowrap;font:500 clamp(27px,4vw,60px)/1 var(--display, Space Grotesk, sans-serif);letter-spacing:-.03em}.ds-tape-pause{position:absolute;right:15px;top:50%;transform:translateY(-50%);padding:9px 12px;min-height:44px;border:1px solid #11121155;background:var(--accent, #fb8954);color:var(--on-accent, #161412);font:12px var(--body, DM Sans, sans-serif)}.ds-tape-pause:focus-visible{outline:3px solid var(--accent, #fb8954);outline-offset:5px}.ds-tape.ds-motion-paused .ds-tape-track{animation-play-state:paused}@keyframes ds-tape-travel{to{transform:translateX(-50%)}}@media(max-width:650px){.ds-tape{padding:19px 0}.ds-tape-text{font-size:34px}.ds-tape-pause{font-size:11px;padding:8px 10px}}@media(prefers-reduced-motion:reduce){.ds-tape-track{animation:none}.ds-tape-pause{display:none}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "An L Street nightclub poster",
+    "overview": "An L Street nightclub poster. A celebration photograph fills the right 64% of a near-black poster; a bordered rooftop inset sits at the lower right. The opening has an 850px minimum height. At 650px and below the crowd fills the frame, the inset disappears, the heading uses the final mobile display token and the minimum height becomes 740px, then 720px at 360px and below.\n\nBoth surfaces remain dark, but the homepage has its own near-black, warm-white, brighter ember and panel values. Do not silently substitute its palette into the existing inner pages.",
+    "keyCharacteristics": [
+      "An L Street nightclub poster.",
+      "Eight complete homepage content sections grounded in real menu and venue evidence.",
+      "Text-only actions, real photographs and restrained motion with reduced-motion support."
+    ],
+    "rules": [
+      {
+        "name": "The Route Scope Rule",
+        "body": "Homepage tokens apply only with the pitch-home body class. Preserve the existing inner-page tokens for routes that do not load pitch.css.",
+        "section": "colors"
+      },
+      {
+        "name": "The Flat Surface Rule",
+        "body": "Use tonal surfaces, rules and real photography for depth. Do not add box shadows.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do keep the homepage and inner-page palettes scoped to their own routes.",
+      "Do preserve the eight-section homepage sequence and all six real menu selections.",
+      "Do keep location, photo, programming and service-link claims tied to data/revision-facts.json.",
+      "Do retain visible focus, text-only 2px controls, keyboard gallery behavior and click-to-load maps."
+    ],
+    "donts": [
+      "Don't reuse another venue's opening, typography treatment or signature composition.",
+      "Don't restore the removed hero overlines or repeated section-rise entrances.",
+      "Don't invent reviews, awards, quotes, founder details, menu items or parking guarantees.",
+      "Don't use generic hospitality slogans, decorative arrows, highlighted words, tilted labels, theme switches or em dashes in homepage copy."
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "venue": "MIX Downtown",
+  "checked": "2026-11-06",
+  "scope": "Official-source content facts for homepage revision. No UI edits.",
+  "menu_type": "Public current menu is a bottle menu. These are verified bottle selections, not house cocktails or invented signature recipes.",
+  "signature_items": [
+    {
+      "name": "Clase Azul Reposado",
+      "details": "Tequila bottle selection.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    },
+    {
+      "name": "Don Julio 1942",
+      "details": "Tequila selection; a 1.75L magnum is also listed.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    },
+    {
+      "name": "Grey Goose",
+      "details": "Vodka selection with La Poire, L’Orange and Le Citron variants listed.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    },
+    {
+      "name": "Veuve Clicquot Brut",
+      "details": "Listed under Bubbles; magnum and 3L formats also appear.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    },
+    {
+      "name": "Dom Pérignon Brut",
+      "details": "Listed under Bubbles; Luminous is separately available.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    },
+    {
+      "name": "Hennessy VSOP Privilège",
+      "details": "Cognac bottle selection.",
+      "source_url": "https://www.mixdowntown.net/menu/",
+      "status": "verified"
+    }
+  ],
+  "bottle_service_detail": {
+    "text": "Bottles come with soft drinks and two juice carafes; Red Bull and extra juice cost more.",
+    "source_url": "https://www.mixdowntown.net/book-vip/",
+    "note": "Link to official booking terms for minimums, service charges and cancellation conditions."
+  },
+  "weekly_schedule": {
+    "opening_hours": [
+      {
+        "days": "Friday to Sunday",
+        "hours": "9:30pm to 1:30am"
+      }
+    ],
+    "kitchen": [
+      {
+        "days": "Friday and Saturday",
+        "hours": "9:30pm to midnight"
+      }
+    ],
+    "guest_list": {
+      "days": "Friday to Sunday",
+      "hours": "9:30pm to 10:30pm",
+      "exclusion": "Holidays excluded"
+    },
+    "age_requirement": "21+ with current valid photo ID",
+    "source_url": "https://www.mixdowntown.net/mixfaq/",
+    "happy_hour": {
+      "status": "unverified",
+      "note": "No current recurring happy-hour schedule found. Do not use former Sunset Social Club hours."
+    }
+  },
+  "calendar": {
+    "url": "https://www.mixdowntown.net/calendar/",
+    "verified_current_programs": [
+      {
+        "name": "Saturdays on the Rooftop",
+        "listed_dates": [
+          "2026-11-07",
+          "2026-11-21"
+        ]
+      },
+      {
+        "name": "DESEO with Fuego Ent.",
+        "listed_dates": [
+          "2026-11-08",
+          "2026-11-15",
+          "2026-11-22"
+        ]
+      },
+      {
+        "name": "MIX 360 with CNTRL",
+        "listed_dates": [
+          "2026-11-13",
+          "2026-11-20"
+        ]
+      }
+    ],
+    "use_note": "Names/dates verified in November calendar. Keep live calendar link; do not imply these programs repeat forever."
+  },
+  "parking": {
+    "status": "verified_general_guidance",
+    "text": "Street parking and several parking garages are located around the venue.",
+    "source_url": "https://www.machospitalitygroup.com/planning-faq/",
+    "limits": "No official named garage, parking rate, validation, valet service, or parking entitlement verified. Do not add any of those claims."
+  },
+  "gift_cards": {
+    "status": "verified_official_navigation_destination",
+    "url": "https://order.toasttab.com/egiftcards/mix-downtown-1525-l-st",
+    "source_url": "https://www.mixdowntown.net/",
+    "local_evidence": "revision-home.html",
+    "note": "Exact GIFT CARDS href in current official navigation. Toast purchase flow was not executed."
+  },
+  "mac_rewards": {
+    "status": "verified_group_destination_not_venue_participation",
+    "url": "https://www.toasttab.com/mac-hospitality-gift-card-1116-15th-street/rewardsSignup",
+    "source_url": "https://www.cafeteria15l.com/",
+    "additional_source_urls": [
+      "https://www.mastacobar.com/",
+      "https://www.ironhorsetavern.net/"
+    ],
+    "note": "Current official sibling venue navigation links MAC Rewards. MIX current navigation does not show this link. Do not claim MIX earns or redeems rewards without further confirmation."
+  },
+  "story_facts": [
+    {
+      "fact": "The venue is an open-air rooftop lounge with fire pits, reclaimed wood and a skylight.",
+      "source_url": "https://www.machospitalitygroup.com/mix-downtown/"
+    },
+    {
+      "fact": "The space has two full bars and accommodates 400 reception guests or 100 seated guests for private events.",
+      "source_url": "https://www.machospitalitygroup.com/mix-downtown/"
+    },
+    {
+      "fact": "Its weekly public service is nightclub hours Friday through Sunday. The official calendar separates Saturday rooftop nights, Sunday DESEO events and selected Friday MIX 360 nights.",
+      "source_url": "https://www.mixdowntown.net/calendar/"
+    }
+  ],
+  "history_unverified": [
+    "No exact opening year, building-history account, or original designer attribution verified in current official sources."
+  ],
+  "photo_candidates": [
+    {
+      "file": "assets-original/bottle-service-host.jpg",
+      "use": "Unused portrait showing a real Clase Azul bottle-service presentation; useful with bottle menu."
+    },
+    {
+      "file": "assets-original/MIXmirror.jpg",
+      "use": "Unused brand-detail photograph for a tightly cropped story transition."
+    },
+    {
+      "file": "assets-original/nightlife-02.jpg",
+      "use": "Unused crowd portrait for a nightlife detail crop."
+    },
+    {
+      "file": "assets-original/nightlife-03.jpg",
+      "use": "Unused portrait-format nightlife option."
+    }
+  ],
+  "content_cautions": [
+    "Do not use sample private-event catering menus as the public nightclub kitchen menu.",
+    "No current public food item list verified.",
+    "Official FAQ heading says 9pm, but FAQ body and all current page footers say 9:30pm. Use 9:30pm.",
+    "Do not reuse the stock nightclub hero clip as documentary venue footage."
+  ]
+}
